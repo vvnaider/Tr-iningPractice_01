@@ -1,0 +1,7 @@
+C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\NAA_Task_04\ConsoleApp4\bin\Debug\ConsoleApp6.exe.config
+C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\NAA_Task_04\ConsoleApp4\bin\Debug\ConsoleApp6.exe
+C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\NAA_Task_04\ConsoleApp4\bin\Debug\ConsoleApp6.pdb
+C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\NAA_Task_04\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\NAA_Task_04\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\NAA_Task_04\ConsoleApp4\obj\Debug\ConsoleApp6.exe
+C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\NAA_Task_04\ConsoleApp4\obj\Debug\ConsoleApp6.pdb
