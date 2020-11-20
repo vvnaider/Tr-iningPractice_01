@@ -1,7 +1,0 @@
-C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp4.exe.config
-C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp4.exe
-C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp4.pdb
-C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
-C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
-C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp4.exe
-C:\Users\1\Documents\Visual Studio 2019\TrainingPractice_01\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp4.pdb
